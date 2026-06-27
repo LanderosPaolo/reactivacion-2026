@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-image: url(./../imgs/background.png);
+}
+
+.titleAndSearch{
+    text-align: center;
+}
+
+h5 {
+    text-transform: capitalize;
+}
