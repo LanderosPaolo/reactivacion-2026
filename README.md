@@ -47,12 +47,6 @@ Durante este proyecto reforcé conocimientos sobre:
 
 ---
 
-## 📷 Capturas
-
-> Próximamente
-
----
-
 ## 👨‍💻 Autor
 
 Paolo Landeros
