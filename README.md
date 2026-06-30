@@ -53,17 +53,6 @@ Durante este proyecto reforcé conocimientos sobre:
 
 ---
 
-## 🔮 Próximas mejoras
-
-- Buscar presionando Enter.
-- Mostrar habilidades.
-- Mostrar estadísticas.
-- Agregar navegación entre Pokémon.
-- Guardar favoritos utilizando LocalStorage.
-- Mejorar la interfaz y el diseño responsive.
-
----
-
 ## 👨‍💻 Autor
 
 Paolo Landeros
